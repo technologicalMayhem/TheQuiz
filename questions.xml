@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Questions>
+  <Question Number="1">
+    <Title>Wer war der erste Präsident der Vereinigten Staaten von Amerika?</Title>
+    <AnswerA>George Wahington</AnswerA>
+    <AnswerB>Abraham Lincoln</AnswerB>
+    <AnswerC>Thomas Jefferson</AnswerC>
+    <AnswerD>James Monroe</AnswerD>
+  </Question>
+  <Question Number="2">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+  </Question>
+  <Question Number="3">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+  </Question>
+  <Question Number="4">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+  </Question>
+  <Question Number="5">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+  </Question>
+</Questions>
