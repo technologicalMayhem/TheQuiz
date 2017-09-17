@@ -41,14 +41,9 @@ namespace TheQuiz
             questionmanager questionmanager = new questionmanager();
             //Finde heraus wie viele Fragen es gibt 
             XElement xmlQuestions = XElement.Load("questions.xml");
-            string questionCountNum = "";
-            var questionCountAtt =
-                from ques1 in xmlQuestions.Elements("Count")
-                select ques1;
-            foreach (XElement ques1 in questionCountAtt)
-                questionCountNum = ques1.Value;
+            var questionCount = xmlQuestions.Elements("Question").Count();
             //Frage wird abgerufen
-            int newQuestion = rnd.Next(1, Int32.Parse(questionCountNum) + 1);
+            int newQuestion = rnd.Next(1, questionCount + 1);
             currentQuestion = questionmanager.GetQuestion(newQuestion);
             //Werte werden verteilt
             questionCurrentQuestion.Text = currentQuestion[0];

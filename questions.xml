@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Questions>
-  <Count>5</Count>
   <Question Number="1">
     <Title>Wer war der erste Präsident der Vereinigten Staaten von Amerika?</Title>
     <AnswerA>George Wahington</AnswerA>
@@ -51,110 +50,6 @@
   </Question>
   <Question Number="7">
     <Title>Wie heißt der breiteste Fluss der Welt?</Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
-  </Question>
-  <Question Number="8">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
-  </Question>
-  <Question Number="9">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
-  </Question>
-  <Question Number="10">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
-  </Question>
-  <Question Number="11">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
-  </Question>
-  <Question Number="12">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
-  </Question>
-  <Question Number="13">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
-  </Question>
-  <Question Number="14">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
-  </Question>
-  <Question Number="15">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
-  </Question>
-  <Question Number="16">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
-  </Question>
-  <Question Number="17">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
-  </Question>
-  <Question Number="18">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
-  </Question>
-  <Question Number="19">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
-  </Question>
-  <Question Number="20">
-    <Title></Title>
     <AnswerA></AnswerA>
     <AnswerB></AnswerB>
     <AnswerC></AnswerC>
