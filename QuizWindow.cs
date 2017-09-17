@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
+using System.Xml.Linq;
 
 namespace TheQuiz
 {
@@ -36,11 +37,20 @@ namespace TheQuiz
         }
         void NewQuestion()
         {
-            //First Quesion
             Random rnd = new Random();
             questionmanager questionmanager = new questionmanager();
-            int newQuestion = rnd.Next(1, 6);
+            //Finde heraus wie viele Fragen es gibt
+            XElement xmlQuestions = XElement.Load("questions.xml");
+            string questionCountNum = "";
+            var questionCountAtt =
+                from ques1 in xmlQuestions.Elements("Count")
+                select ques1;
+            foreach (XElement ques1 in questionCountAtt)
+                questionCountNum = ques1.Value;
+            //Frage wird abgerufen
+            int newQuestion = rnd.Next(1, Int32.Parse(questionCountNum) + 1);
             currentQuestion = questionmanager.GetQuestion(newQuestion);
+            //Werte werden verteilt
             questionCurrentQuestion.Text = currentQuestion[0];
             questionAnswerA.Text = currentQuestion[1];
             questionAnswerB.Text = currentQuestion[2];
