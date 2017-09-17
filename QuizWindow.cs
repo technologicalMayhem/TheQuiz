@@ -13,9 +13,14 @@ namespace TheQuiz
 {
     public partial class QuizWindow : Form
     {
+        string[] currentQuestion = { "", "", "", "", "", "" };
+        int intQuestionsCorrect = 0;
+        int intQuestionsWrong = 0;
+        int intQuestionsSkipped = 0;
         public QuizWindow()
         {
             InitializeComponent();
+            NewQuestion();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -25,12 +30,56 @@ namespace TheQuiz
 
         private void buttonSkipQuestion_Click(object sender, EventArgs e)
         {
-            var manager = new questionmanager();
-            string[] question = manager.GetQuestion(2);
-            foreach (string s in question)
+            intQuestionsSkipped++;
+            questionCountSkipped.Text = "Fragen übersprungen: " + intQuestionsSkipped.ToString();
+            NewQuestion();
+        }
+        void NewQuestion()
+        {
+            //First Quesion
+            Random rnd = new Random();
+            questionmanager questionmanager = new questionmanager();
+            int newQuestion = rnd.Next(1, 6);
+            currentQuestion = questionmanager.GetQuestion(newQuestion);
+            questionCurrentQuestion.Text = currentQuestion[0];
+            questionAnswerA.Text = currentQuestion[1];
+            questionAnswerB.Text = currentQuestion[2];
+            questionAnswerC.Text = currentQuestion[3];
+            questionAnswerD.Text = currentQuestion[4];
+        }
+        void GetResults(string correctAnswer)
+        {
+            if (currentQuestion[5] == correctAnswer)
             {
-                Debug.WriteLine(s);
+                intQuestionsCorrect++;
+                questionCountCorrect.Text = "Fragen Richtig: " + intQuestionsCorrect.ToString();
             }
+            else
+            {
+                intQuestionsWrong++;
+                questionCountWrong.Text = "Fragen Falsch: " + intQuestionsWrong.ToString();
+            }
+            NewQuestion();
+        }
+
+        private void questionAnswerA_Click(object sender, EventArgs e)
+        {
+            GetResults("1");
+        }
+
+        private void questionAnswerB_Click(object sender, EventArgs e)
+        {
+            GetResults("2");
+        }
+
+        private void questionAnswerC_Click(object sender, EventArgs e)
+        {
+            GetResults("3");
+        }
+
+        private void questionAnswerD_Click(object sender, EventArgs e)
+        {
+            GetResults("4");
         }
     }
 }

@@ -109,6 +109,7 @@
             this.questionAnswerA.Size = new System.Drawing.Size(285, 48);
             this.questionAnswerA.TabIndex = 6;
             this.questionAnswerA.UseVisualStyleBackColor = true;
+            this.questionAnswerA.Click += new System.EventHandler(this.questionAnswerA_Click);
             // 
             // questionAnswerB
             // 
@@ -119,6 +120,7 @@
             this.questionAnswerB.Size = new System.Drawing.Size(285, 48);
             this.questionAnswerB.TabIndex = 7;
             this.questionAnswerB.UseVisualStyleBackColor = true;
+            this.questionAnswerB.Click += new System.EventHandler(this.questionAnswerB_Click);
             // 
             // questionAnswerD
             // 
@@ -129,6 +131,7 @@
             this.questionAnswerD.Size = new System.Drawing.Size(285, 48);
             this.questionAnswerD.TabIndex = 9;
             this.questionAnswerD.UseVisualStyleBackColor = true;
+            this.questionAnswerD.Click += new System.EventHandler(this.questionAnswerD_Click);
             // 
             // questionAnswerC
             // 
@@ -139,6 +142,7 @@
             this.questionAnswerC.Size = new System.Drawing.Size(285, 48);
             this.questionAnswerC.TabIndex = 8;
             this.questionAnswerC.UseVisualStyleBackColor = true;
+            this.questionAnswerC.Click += new System.EventHandler(this.questionAnswerC_Click);
             // 
             // QuizWindow
             // 

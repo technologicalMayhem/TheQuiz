@@ -17,14 +17,46 @@
     <CorrectAnswer>2</CorrectAnswer>
   </Question>
   <Question Number="3">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
+    <Title>Aus welcher Mythologie stammt der die magische Waffe "Mjölnir"?</Title>
+    <AnswerA>Griechisch</AnswerA>
+    <AnswerB>Jüdisch</AnswerB>
+    <AnswerC>Nordisch</AnswerC>
+    <AnswerD>Finnisch</AnswerD>
+    <CorrectAnswer>3</CorrectAnswer>
   </Question>
   <Question Number="4">
+    <Title>Welcher dieser Flüsse mündet in das schwarze Meer?</Title>
+    <AnswerA>Rhein</AnswerA>
+    <AnswerB>Donau</AnswerB>
+    <AnswerC>Ems</AnswerC>
+    <AnswerD>Main</AnswerD>
+    <CorrectAnswer>2</CorrectAnswer>
+  </Question>
+  <Question Number="5">
+    <Title>Wie heißt das flächengrößte Land der Welt?</Title>
+    <AnswerA>Kanada</AnswerA>
+    <AnswerB>China</AnswerB>
+    <AnswerC>USA</AnswerC>
+    <AnswerD>Russland</AnswerD>
+    <CorrectAnswer>4</CorrectAnswer>
+  </Question>
+  <Question Number="6">
+    <Title>Was ist ein Bungalow?</Title>
+    <AnswerA>Ein kleines Haus mit nicht mehr als einem Zimmer</AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
+  </Question>
+  <Question Number="7">
+    <Title>Wie heißt der breiteste Fluss der Welt?</Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
+  </Question>
+  <Question Number="8">
     <Title></Title>
     <AnswerA></AnswerA>
     <AnswerB></AnswerB>
@@ -32,7 +64,95 @@
     <AnswerD></AnswerD>
     <CorrectAnswer></CorrectAnswer>
   </Question>
-  <Question Number="5">
+  <Question Number="9">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
+  </Question>
+  <Question Number="10">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
+  </Question>
+  <Question Number="11">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
+  </Question>
+  <Question Number="12">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
+  </Question>
+  <Question Number="13">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
+  </Question>
+  <Question Number="14">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
+  </Question>
+  <Question Number="15">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
+  </Question>
+  <Question Number="16">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
+  </Question>
+  <Question Number="17">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
+  </Question>
+  <Question Number="18">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
+  </Question>
+  <Question Number="19">
+    <Title></Title>
+    <AnswerA></AnswerA>
+    <AnswerB></AnswerB>
+    <AnswerC></AnswerC>
+    <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
+  </Question>
+  <Question Number="20">
     <Title></Title>
     <AnswerA></AnswerA>
     <AnswerB></AnswerB>
