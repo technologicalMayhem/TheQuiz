@@ -39,7 +39,7 @@ namespace TheQuiz
         {
             Random rnd = new Random();
             questionmanager questionmanager = new questionmanager();
-            //Finde heraus wie viele Fragen es gibt
+            //Finde heraus wie viele Fragen es gibt 
             XElement xmlQuestions = XElement.Load("questions.xml");
             string questionCountNum = "";
             var questionCountAtt =
