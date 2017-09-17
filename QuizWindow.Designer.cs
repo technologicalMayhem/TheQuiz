@@ -84,6 +84,7 @@
             this.buttonSkipQuestion.TabIndex = 4;
             this.buttonSkipQuestion.Text = "Frage überspringen";
             this.buttonSkipQuestion.UseVisualStyleBackColor = true;
+            this.buttonSkipQuestion.Click += new System.EventHandler(this.buttonSkipQuestion_Click);
             // 
             // questionCurrentQuestion
             // 

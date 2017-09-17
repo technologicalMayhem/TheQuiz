@@ -6,13 +6,15 @@
     <AnswerB>Abraham Lincoln</AnswerB>
     <AnswerC>Thomas Jefferson</AnswerC>
     <AnswerD>James Monroe</AnswerD>
+    <CorrectAnswer>1</CorrectAnswer>
   </Question>
   <Question Number="2">
-    <Title></Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
+    <Title>Wie viel Quadratkilometer Fläche hat Deutschland?</Title>
+    <AnswerA>147.897 km²</AnswerA>
+    <AnswerB>357.376 km²</AnswerB>
+    <AnswerC>243.187 km²</AnswerC>
+    <AnswerD>301.487 km²</AnswerD>
+    <CorrectAnswer>2</CorrectAnswer>
   </Question>
   <Question Number="3">
     <Title></Title>
@@ -20,6 +22,7 @@
     <AnswerB></AnswerB>
     <AnswerC></AnswerC>
     <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
   </Question>
   <Question Number="4">
     <Title></Title>
@@ -27,6 +30,7 @@
     <AnswerB></AnswerB>
     <AnswerC></AnswerC>
     <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
   </Question>
   <Question Number="5">
     <Title></Title>
@@ -34,5 +38,6 @@
     <AnswerB></AnswerB>
     <AnswerC></AnswerC>
     <AnswerD></AnswerD>
+    <CorrectAnswer></CorrectAnswer>
   </Question>
 </Questions>
