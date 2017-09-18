@@ -44,7 +44,6 @@ namespace TheQuiz
         {
             //Deklaration
             questionmanager questionmanager = new questionmanager();
-            int done = 0;
             int newQuestion = 0;
             //Finde heraus wie viele Fragen es gibt 
             XElement xmlQuestions = XElement.Parse(Properties.Resources.questions);
