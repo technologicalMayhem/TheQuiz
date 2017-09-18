@@ -11,7 +11,7 @@ namespace TheQuiz
     static class quiz
     {
         /// <summary>
-        /// Der Haupteinstiegspunkt für die Anwendung.
+        /// Der Haupteinstiegspunkt für die Anwendung
         /// </summary>
         [STAThread]
         static void Main()
