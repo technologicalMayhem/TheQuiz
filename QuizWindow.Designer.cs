@@ -91,6 +91,7 @@
             this.questionCurrentQuestion.AutoSize = true;
             this.questionCurrentQuestion.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.questionCurrentQuestion.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.questionCurrentQuestion.ForeColor = System.Drawing.Color.Black;
             this.questionCurrentQuestion.Location = new System.Drawing.Point(16, 54);
             this.questionCurrentQuestion.MaximumSize = new System.Drawing.Size(590, 70);
             this.questionCurrentQuestion.MinimumSize = new System.Drawing.Size(590, 70);
