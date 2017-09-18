@@ -58,7 +58,7 @@ namespace TheQuiz
                     QuestionsAsked.Add(newQuestion);
                     break;
                 }
-                if (QuestionsAsked.Count == questionCount)
+                if (QuestionsAsked.Count == questionCount + 1)
                 {
                     EndQuiz();
                     return;
