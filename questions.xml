@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Questions>
   <Question Number="1">
     <Title>Wer war der erste Präsident der Vereinigten Staaten von Amerika?</Title>
@@ -43,17 +43,97 @@
   <Question Number="6">
     <Title>Was ist ein Bungalow?</Title>
     <AnswerA>Ein kleines Haus mit nicht mehr als einem Zimmer</AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
+    <AnswerB>Ein Haus mit nur einem Stockwerk</AnswerB>
+    <AnswerC>Eine Haus das um Kosten niedrig zu halten kostengünstig gebaut wurde</AnswerC>
+    <AnswerD>Ein Haus mit einem Flachdach</AnswerD>
+    <CorrectAnswer>2</CorrectAnswer>
   </Question>
   <Question Number="7">
     <Title>Wie heißt der breiteste Fluss der Welt?</Title>
-    <AnswerA></AnswerA>
-    <AnswerB></AnswerB>
-    <AnswerC></AnswerC>
-    <AnswerD></AnswerD>
-    <CorrectAnswer></CorrectAnswer>
+    <AnswerA>Wolga</AnswerA>
+    <AnswerB>Nil</AnswerB>
+    <AnswerC>Amazonas</AnswerC>
+    <AnswerD>Rhein</AnswerD>
+    <CorrectAnswer>3</CorrectAnswer>
+  </Question>
+  <Question Number="8">
+    <Title>Welches dieser Teilchen gehört nicht zu einem gewöhnlichen Atom?</Title>
+    <AnswerA>Neutron</AnswerA>
+    <AnswerB>Elektron</AnswerB>
+    <AnswerC>Positron</AnswerC>
+    <AnswerD>Proton</AnswerD>
+    <CorrectAnswer>3</CorrectAnswer>
+  </Question>
+  <Question Number="9">
+    <Title>Wofür steht die Abkürzung IP?</Title>
+    <AnswerA>Internet Protocol</AnswerA>
+    <AnswerB>Identification Port</AnswerB>
+    <AnswerC>Intergrated Port</AnswerC>
+    <AnswerD>Internet Parser</AnswerD>
+    <CorrectAnswer>1</CorrectAnswer>
+  </Question>
+  <Question Number="10">
+    <Title>Wo liegen die Goldvorräte der USA?</Title>
+    <AnswerA>Pentagon</AnswerA>
+    <AnswerB>Im amerikanischem Finanzministerium</AnswerB>
+    <AnswerC>Fort Knox</AnswerC>
+    <AnswerD>Unbekannt</AnswerD>
+    <CorrectAnswer>3</CorrectAnswer>
+  </Question>
+  <Question Number="11">
+    <Title>Auf welche Stadt wurde die erste Atomwaffe abgefeuert?</Title>
+    <AnswerA>Fukushima</AnswerA>
+    <AnswerB>Peking</AnswerB>
+    <AnswerC>Wutunisha</AnswerC>
+    <AnswerD>Hiroshima</AnswerD>
+    <CorrectAnswer>4</CorrectAnswer>
+  </Question>
+  <Question Number="12">
+    <Title>Für welches Element steht die Abkürzung "AU"?</Title>
+    <AnswerA>Wasserstoff</AnswerA>
+    <AnswerB>Gold</AnswerB>
+    <AnswerC>Eisen</AnswerC>
+    <AnswerD>Kohlenstoff</AnswerD>
+    <CorrectAnswer>2</CorrectAnswer>
+  </Question>
+  <Question Number="13">
+    <Title>Wie heißt der Palast der britischen Königsfamilie?</Title>
+    <AnswerA>Windsor Palace</AnswerA>
+    <AnswerB>Buckingham Palace</AnswerB>
+    <AnswerC>Bermingham Palace</AnswerC>
+    <AnswerD>Royal Palace</AnswerD>
+    <CorrectAnswer>2</CorrectAnswer>
+  </Question>
+  <Question Number="14">
+    <Title>Welchen Beruf hatte der Erfinder der Giultinne?</Title>
+    <AnswerA>Henker</AnswerA>
+    <AnswerB>Schmied</AnswerB>
+    <AnswerC>Ingenieur</AnswerC>
+    <AnswerD>Arzt</AnswerD>
+    <CorrectAnswer>4</CorrectAnswer>
+  </Question>
+  <Question Number="15">
+    <Title>Wie weit ist die Sonne von der Erde in Lichtminuten entfernt?</Title>
+    <AnswerA>6</AnswerA>
+    <AnswerB>8</AnswerB>
+    <AnswerC>10</AnswerC>
+    <AnswerD>12</AnswerD>
+    <CorrectAnswer>2</CorrectAnswer>
+  </Question>
+  <Question Number="16">
+    <Title>Wer ist der Autor der Harry Potter Bücher?</Title>
+    <AnswerA>Russell T. Davies</AnswerA>
+    <AnswerB>George Lucas</AnswerB>
+    <AnswerC>James Cameron</AnswerC>
+    <AnswerD>J. K. Rowling</AnswerD>
+    <CorrectAnswer>4</CorrectAnswer>
+  </Question>
+  <Question Number="17">
+    <Title>Text</Title>
+    <AnswerA>Text</AnswerA>
+    <AnswerB>Text</AnswerB>
+    <AnswerC>Text</AnswerC>
+    <AnswerD>Text</AnswerD>
+    <CorrectAnswer>Text</CorrectAnswer>
   </Question>
 </Questions>
