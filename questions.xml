@@ -128,12 +128,4 @@
     <AnswerD>J. K. Rowling</AnswerD>
     <CorrectAnswer>4</CorrectAnswer>
   </Question>
-  <Question Number="17">
-    <Title>Text</Title>
-    <AnswerA>Text</AnswerA>
-    <AnswerB>Text</AnswerB>
-    <AnswerC>Text</AnswerC>
-    <AnswerD>Text</AnswerD>
-    <CorrectAnswer>1</CorrectAnswer>
-  </Question>
 </Questions>
