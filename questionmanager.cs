@@ -15,7 +15,7 @@ namespace TheQuiz
             string stringQuestionNumber = questionNumber.ToString();
             string[] question = { "", "", "", "", "", "" };
             //Load the XML file
-            XElement xmlQuestions = XElement.Load("questions.xml");
+            XElement xmlQuestions = XElement.Parse(Properties.Resources.questions);
 
             //Question Title
             IEnumerable<XElement> QuestionTitle =

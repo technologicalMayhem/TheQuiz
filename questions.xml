@@ -105,7 +105,7 @@
     <CorrectAnswer>2</CorrectAnswer>
   </Question>
   <Question Number="14">
-    <Title>Welchen Beruf hatte der Erfinder der Giultinne?</Title>
+    <Title>Welchen Beruf hatte der Erfinder der Guillotine?</Title>
     <AnswerA>Henker</AnswerA>
     <AnswerB>Schmied</AnswerB>
     <AnswerC>Ingenieur</AnswerC>
@@ -134,6 +134,6 @@
     <AnswerB>Text</AnswerB>
     <AnswerC>Text</AnswerC>
     <AnswerD>Text</AnswerD>
-    <CorrectAnswer>Text</CorrectAnswer>
+    <CorrectAnswer>1</CorrectAnswer>
   </Question>
 </Questions>

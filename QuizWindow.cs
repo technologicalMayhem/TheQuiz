@@ -47,7 +47,7 @@ namespace TheQuiz
             int done = 0;
             int newQuestion = 0;
             //Finde heraus wie viele Fragen es gibt 
-            XElement xmlQuestions = XElement.Load("questions.xml");
+            XElement xmlQuestions = XElement.Parse(Properties.Resources.questions);
             var questionCount = xmlQuestions.Elements("Question").Count();
             //Frage wird abgerufen und geprüft ob schon mal genutzt wurde. Wurden bereits alle benutzt so wird das Quiz beeendet
             while (true)
